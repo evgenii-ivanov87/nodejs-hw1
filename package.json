@@ -1,5 +1,5 @@
 {
-  "name": "homework-01",
+  "name": "nodejs-hw1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Viktoriia <Glory_viktory@hotmail.com>",
+  "author": "Evgenii <cl.zero47@gmai.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
